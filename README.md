@@ -29,8 +29,8 @@ movie_recommender
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/FranciscoOliveira55/MovieRecommendationSystem.git
-cd MovieRecommendationSystem
+git clone https://github.com/FranciscoOliveira55/MovieRecommendationSystemWithExplainability.git
+cd MovieRecommendationSystemWithExplainability
 ```
 ---
 2. Create and activate a virtual environment (optional but recommended):
