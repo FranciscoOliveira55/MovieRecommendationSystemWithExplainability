@@ -9,6 +9,7 @@ __pycache__/
 .venv/
 env/
 venv/
+.venv1/
 
 # IDEs
 .vscode/
@@ -20,7 +21,7 @@ venv/
 # Others
 .DS_Store
 /docs/ProjetoFinalKeyWords.txt
-/datasets/
-/saved_models
-api_keys.py
+#/datasets/
+#/saved_models
+#api_keys.py
 logs.txt
