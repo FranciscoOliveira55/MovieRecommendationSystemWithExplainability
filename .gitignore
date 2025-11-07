@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Environments
+.venv/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Others
+.DS_Store
+/docs/ProjetoFinalKeyWords.txt
+/datasets/
+/saved_models
+api_keys.py
+logs.txt
