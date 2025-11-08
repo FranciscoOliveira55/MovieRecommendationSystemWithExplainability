@@ -9,14 +9,13 @@ A movie recommendation system built in Python with machine learning, explainabil
 
 ```
 movie_recommender
-├── main.py               # 🎯 Entry point — orchestrates the entire recommendation pipeline
-├── app.py                # ✅ Visual interface with Streamlit
+├── app.py                # 🎯 Entry point - Visual interface with Streamlit
 ├── core/data_loader.py        # 📦 Loads and prepares rated and unrated movie data
 ├── core/model.py              # 🧠 Defines, trains, and returns AI models
 ├── core/prediction.py         # 🔮 Generates rating predictions for unrated movies
 ├── core/evaluation.py         # 📊 Evaluates model performance using cross-validation and metrics (e.g., MSE, R2)
 ├── core/recommendation.py     # 🎥 Selects and returns the top movie recommendations
-├── core/explainability.py     # 🧩 Explainability tools (KernelExplainer, plots, etc.)
+├── core/explainability.py     # 🧩 Explainability tools (SHAP, Neighbor based Explanations, etc.)
 ├── core/utils.py              # 🛠️ Utility/helper functions 
 ├── requirements.txt      # 📦 Python dependencies (for pip install)
 └── README.md             # 📖 Project overview and instructions
